@@ -1,0 +1,10 @@
+.cell-container {
+  width: 520px;
+  height: 520px;
+  margin: 5px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+}
