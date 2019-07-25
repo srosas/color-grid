@@ -1,3 +1,5 @@
+# color-grid
+
 A color-grid application that changes to a set of colors on click and shows the color name when hovering
 
 ## Getting started
@@ -13,4 +15,3 @@ npm install
 ```bash
 npm run start
 ```
-# color-grid
